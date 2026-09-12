@@ -7,6 +7,7 @@ GitHub CLI，也叫 `gh`，就是 GitHub 官方出的命令行工具。
 ## 仓库索引
 
 - [GitHub 本周趋势报告：2026-09-12](reports/github-trending-2026-09-12.md)
+- [Obsidian Git 知识图谱](obsidian/git-knowledge-graph/Git%20%E7%9F%A5%E8%AF%86%E5%9B%BE%E8%B0%B1.md)
 
 ## 看看有没有安装成功
 
