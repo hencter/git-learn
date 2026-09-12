@@ -4,6 +4,10 @@ GitHub CLI，也叫 `gh`，就是 GitHub 官方出的命令行工具。
 
 平时我们操作 GitHub，经常要打开浏览器，比如创建仓库、看 issue、创建 PR。装了 `gh` 以后，很多事情可以直接在终端里完成。
 
+## 仓库索引
+
+- [GitHub 本周趋势报告：2026-09-12](reports/github-trending-2026-09-12.md)
+
 ## 看看有没有安装成功
 
 ```powershell
